@@ -2,7 +2,7 @@
 
 ## ICEFLOW
 
-目前进行VR设备开发，偶尔做一些AI方面项目。下一个项目是开发全球最强PC播放器
+目前进行VR设备开发，偶尔做一些AI方面项目。下一个主研项目是开发全球最强PC播放器
 
 ### **社交主页：**
 
@@ -29,7 +29,7 @@
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=hkiceflow&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=hkiceflow&show_icons=true&theme=vue)
+![hkiceflow's github stats](https://github-readme-stats.vercel.app/api?username=hkiceflow&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hkiceflow&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hkiceflow&layout=compact&langs_count=6)
